@@ -1,5 +1,7 @@
 # Digital Forensics & Cyber Security Portfolio
 
+**English** (this page) ｜ 日本語: [README.ja.md](./README.ja.md)
+
 ## Project Overview
 This repository serves as a centralized archive of my digital forensics, incident response (DFIR), and cybersecurity projects. It demonstrates practical applications of endpoint analysis, container security, network traffic analysis, and the strategic implementation of artificial intelligence in secure environments.
 
