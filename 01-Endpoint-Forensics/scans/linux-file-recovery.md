@@ -1,7 +1,7 @@
 # Linux File Recovery Command Log
 
 **Target:** disk image mounted at `/mnt/linux_image`, plus block device `dev/loop0` for the carving step.
-**Environment:** Kali/root shell, `dfcs635-tsmith` session.
+**Environment:** Kali/root shell (lab environment).
 
 ---
 

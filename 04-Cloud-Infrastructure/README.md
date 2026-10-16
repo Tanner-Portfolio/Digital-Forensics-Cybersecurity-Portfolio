@@ -6,7 +6,7 @@ A lab exercise in provisioning AWS network infrastructure through CloudFormation
 
 ## Environment
 
-CLCS 635 coursework lab, AWS Console (`us-east-2`, Ohio), student AWS Academy/Learner Lab account. Provisioning was done through the CloudFormation **Infrastructure Composer** tool — a drag-and-drop canvas that generates the underlying CloudFormation JSON as resources are added and their properties edited.
+Graduate coursework lab, AWS Console (`us-east-2`, Ohio), student AWS Academy/Learner Lab account. Provisioning was done through the CloudFormation **Infrastructure Composer** tool — a drag-and-drop canvas that generates the underlying CloudFormation JSON as resources are added and their properties edited.
 
 ## Tools
 

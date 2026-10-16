@@ -24,4 +24,4 @@ This repository serves as a centralized archive of my digital forensics and cybe
     * *Focus:* Digital Forensic Investigation of Insider Threat, including chain-of-custody documentation and an evidence control log.
 
 ---
-*Note: All six projects originate from graduate DFIR coursework labs against instructor-provided or fictional scenarios, not real incidents. Some screenshots retain real lab-environment details (e.g., student account identifiers) from the source materials rather than being redacted.*
+*Note: All six projects originate from graduate DFIR coursework labs against instructor-provided or fictional scenarios, not real incidents. Lab-environment identifiers (host names and institutional watermarks) have been redacted from the screenshots.*
